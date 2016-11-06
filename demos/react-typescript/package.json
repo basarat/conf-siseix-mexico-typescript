@@ -1,0 +1,22 @@
+{
+  "name": "react-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://github.com/basarat/react-typescript.git",
+  "scripts": {
+    "prepublish": "typings install",
+    "start": "webpack --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "ts-loader": "^0.8.2",
+    "typescript": "^1.9.0-dev.20160328",
+    "typings": "^0.7.9",
+    "webpack": "^1.12.14"
+  }
+}
