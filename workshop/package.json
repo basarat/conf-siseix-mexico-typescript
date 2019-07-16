@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/AngularClass/typescript-workshop",
   "devDependencies": {
-    "ts-node": "^0.5.4",
-    "tslint": "^3.1.1",
-    "typescript": "1.7.3"
+    "ts-node": "^8.3.0",
+    "tslint": "^5.18.0",
+    "typescript": "3.5.3"
   }
 }
