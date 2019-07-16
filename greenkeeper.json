@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "demos/react-typescript/package.json",
+        "workshop/package.json"
+      ]
+    }
+  }
+}
